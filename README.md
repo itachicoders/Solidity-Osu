@@ -1,6 +1,3 @@
-# Solidity-Osu
-A external osu! cheat.
-
 # About:
  A application that makes your Osu! gameplay trouble-free!
 
